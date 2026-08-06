@@ -1,0 +1,2 @@
+Hello! This data is retrieved from the TXT file using XMLHttpRequest.
+
