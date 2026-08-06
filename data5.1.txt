@@ -1,0 +1,2 @@
+Hello, World!
+This text was loaded from a TXT file using XMLHttpRequest.
